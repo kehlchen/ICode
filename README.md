@@ -33,20 +33,23 @@ During execution, the script targets the exact indices between the markers, igno
    ```bash
    git clone [https://github.com/YOUR_USERNAME/WhiseByte.git](https://github.com/kehlchen/ICode.git)
    cd WhiseByte
-
-```
+   ```
  2. **Run the application:**
-   ```bash
-   python wb.py
+   ```
+   python main-en.py
    
    ```
+   **or**
+   ```
+   python main-de.py
+   ```
+   for the german version
  3. **Navigate the Menu:**
    * Use the **[Up / Down]** arrow keys to move the selection.
    * Press **[Enter]** to confirm your choice.
+
+## Languages
+The project currently only supports English (`main-en.py`) and German (`main-de.py`) as a language, if you want to support this project, you can help translate it to other languages.
+
 ## ⚠️ Disclaimer
 This project is intended strictly for educational purposes, experimental software engineering, and studying steganographic concepts. Always ensure you comply with applicable software licenses when modifying open-source codebases.
-```
-
-
-
-```
