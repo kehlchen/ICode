@@ -44,6 +44,7 @@ During execution, the script targets the exact indices between the markers, igno
    python main-de.py
    ```
    for the german version
+   
  3. **Navigate the Menu:**
    * Use the **[Up / Down]** arrow keys to move the selection.
    * Press **[Enter]** to confirm your choice.
