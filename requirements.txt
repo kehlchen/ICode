@@ -1,0 +1,6 @@
+requests
+cryptography
+fastapi
+uvicorn
+pyinstaller
+pydantic
